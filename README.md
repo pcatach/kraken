@@ -2,6 +2,22 @@
 
 Using Kraken REST API
 
+## Usage
+
+Create environment with (requires python3.8 and python3.8-venv):
+
+```
+python3.8 -m venv env
+./env/bin/pip install --upgrade pip
+./env/bin/pip install -r requrements.in
+```
+
+Run with
+
+```
+./env/bin/python src/main.py
+```
+
 ## API documentation
 
 ### Request Headers and Responses
