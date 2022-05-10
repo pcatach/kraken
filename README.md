@@ -12,6 +12,8 @@ python3.8 -m venv env
 ./env/bin/pip install -r requrements.in
 ```
 
+Define API_KEY and SECRET_API_KEY variables in `src/local_settings.py`.
+
 Run with
 
 ```
